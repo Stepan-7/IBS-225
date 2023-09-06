@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"ba715ae952c5cdf6","type":"group","x":-1000,"y":-400,"width":2220,"height":1320,"color":"5","label":"Расписание"},
+		{"id":"3d6e2b3bdce78738","type":"group","x":556,"y":-980,"width":664,"height":580,"color":"3","label":"Предметы"},
+		{"id":"2198bd9f33b53968","type":"text","text":"[[Эксплуатация автоматизированных (информационных) систем в защищённом исполнении]]","x":576,"y":-660,"width":624,"height":73,"color":"#8db4e2"},
+		{"id":"3af7dc4d0d024e64","type":"text","text":"БЖ","x":576,"y":-560,"width":624,"height":50},
+		{"id":"89d154adf8d9ce3b","type":"text","text":"Интернет технологии","x":576,"y":-480,"width":624,"height":50},
+		{"id":"3fcfabac488700c9","type":"text","text":"[[Организационно-правовое обеспечение информационной безопасности]]","x":576,"y":-820,"width":624,"height":59,"color":"#fcd5b4"},
+		{"id":"439f6ea1d1180c06","type":"text","text":"[[Документационное обеспечение управления]]","x":576,"y":-900,"width":624,"height":51,"color":"#d8e4bc"},
+		{"id":"e8c53b72a47b55f9","type":"text","text":"[[Программные и программно-аппаратные средства защиты информации]]","x":576,"y":-740,"width":624,"height":60,"color":"#b7dee8"},
+		{"id":"429d169a9ce9529c","type":"text","text":"Учёба","x":-15,"y":-720,"width":250,"height":60},
+		{"id":"5aa41db35ca71e0a","type":"file","file":"Расписание/Вторник.png","x":-575,"y":-220,"width":449,"height":400},
+		{"id":"1a554f4d5fb5e651","type":"file","file":"Расписание/Звонки.png","x":-575,"y":280,"width":1120,"height":520},
+		{"id":"6fb3d6709ac94f5f","type":"file","file":"Расписание/Понедельник.png","x":-980,"y":-260,"width":405,"height":440},
+		{"id":"65be0f2be19e28a8","type":"file","file":"Расписание/Среда.png","x":-126,"y":-260,"width":444,"height":440},
+		{"id":"7ce0ee268a2a0c6d","type":"file","file":"Расписание/Четверг.png","x":318,"y":-220,"width":455,"height":400},
+		{"id":"cd0c43d3b9eb1f12","type":"file","file":"Расписание/Пятница.png","x":773,"y":-220,"width":425,"height":400}
+	],
+	"edges":[
+		{"id":"9601ce48c80a2eb4","fromNode":"429d169a9ce9529c","fromSide":"bottom","toNode":"ba715ae952c5cdf6","toSide":"top","color":"5"},
+		{"id":"6c8f71a960ea9999","fromNode":"429d169a9ce9529c","fromSide":"right","toNode":"3d6e2b3bdce78738","toSide":"left","color":"3"}
+	]
+}

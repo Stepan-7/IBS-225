@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "964dd192ed7a44e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f56dca8a80ad1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dbb00f2f996eb09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ППАСЗИ (Седов Д.П.)/ПР_№6/Практическая работа №6.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e6f5c393951c459",
+    "type": "split",
+    "children": [
+      {
+        "id": "39171e3e50b4d1cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5e4702a61a14661",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f4383dd4307f706",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd77832c479c1461",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 315.5
+  },
+  "right": {
+    "id": "0836ee5df121d13b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d5c3b8d7fdfb65e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc70b22ac66963d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ППАСЗИ (Седов Д.П.)/ПР_№6/Практическая работа №6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3d5d27a9d247e969",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ППАСЗИ (Седов Д.П.)/ПР_№6/Практическая работа №6.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "df4f7046684d284a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "415c658afd78d8f1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ППАСЗИ (Седов Д.П.)/ПР_№6/Практическая работа №6.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "canvas:Создать новый холст": false,
+      "graph:Граф": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false,
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "workspaces:Пространства": false,
+      "publish:Публикация изменений": false,
+      "random-note:Открыть случайную заметку": false,
+      "zk-prefixer:Создать заметку с уникальным идентификатором": false
+    }
+  },
+  "active": "6dbb00f2f996eb09",
+  "lastOpenFiles": [
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/Практическая работа №6.md",
+    "IBS-225",
+    "ДОУ (Гончарик Е.Е.)/Документационное обеспечение управления.md",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/~$6.docx",
+    "Учёба.canvas",
+    "ЭАИСЗИ (Круглов М.Д.)/Эксплуатация автоматизированных (информационных) систем в защищённом исполнении.md",
+    "ППАСЗИ (Седов Д.П.)/Программные и программно-аппаратные средства защиты информации.md",
+    "ОПОИБ (Тимакова И.В.)/Организационно-правовое обеспечение информационной безопасности.md",
+    "ДОУ (Гончарик Е.Е.)/Основные функции и их классификация.md",
+    "ЭАИСЗИ (Круглов М.Д.)/ИС.canvas",
+    "ЭАИСЗИ (Круглов М.Д.)/Инф-е системы.md",
+    "~$Расписание ИБС225.xlsx",
+    "ДОУ (Гончарик Е.Е.)/ОФиК.canvas",
+    "ДОУ (Гончарик Е.Е.)/Основные понятия в сфере ДОУ.md",
+    "ЭАИСЗИ (Круглов М.Д.)",
+    "Расписание/Звонки.png",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/Pasted image 20230906111317.png",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/Pasted image 20230906113103.png",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/Pasted image 20230906112522.png",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/Pasted image 20230906112435.png",
+    "Учёба/Практическая работа №6.pdf",
+    "ППАСЗИ (Седов Д.П.)/~$6.docx",
+    "ППАСЗИ (Седов Д.П.)/ПР_№6/6.docx",
+    "ОПОИБ (Тимакова И.В.)/ОПОИБ-ДЗ.md",
+    "Интернет технологии (Годунов П.А.)/ИТ-ДЗ.md",
+    "ОПОИБ (Тимакова И.В.)/Концепция информационного общества.md",
+    "ППАСЗИ (Седов Д.П.)",
+    "Учёба/Основные понятия в сфере ДОУ.pdf",
+    "Расписание/Среда.png",
+    "Расписание/Расписание.md",
+    "Интернет технологии (Годунов П.А.)/HTML.md",
+    "БЖ/Основы БЖ.md",
+    "202309041713.md",
+    "БЖ/История.md",
+    "Расписание/Вторник.png"
+  ]
+}
