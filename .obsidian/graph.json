@@ -1,12 +1,41 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
   "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:\"ЭАИСЗИ (Круглов М.Д.)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 9286882
+      }
+    },
+    {
+      "query": "path:\"ОПОИБ (Тимакова И.В.)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 16569780
+      }
+    },
+    {
+      "query": "path:\"ДОУ (Гончарик Е.Е.)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14214332
+      }
+    },
+    {
+      "query": "path:\"ППАСЗИ (Седов Д.П.)\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 12050152
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5307101671043272,
+  "scale": 0.8096285280884787,
   "close": true
 }
