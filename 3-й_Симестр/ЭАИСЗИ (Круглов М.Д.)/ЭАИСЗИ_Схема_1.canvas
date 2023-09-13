@@ -1,0 +1,23 @@
+{
+	"nodes":[
+		{"id":"4894d2b5c2ce6842","type":"group","x":-525,"y":-326,"width":285,"height":326,"color":"5","label":"Пользователи"},
+		{"id":"b11e4b6ca8d23f5b","type":"group","x":60,"y":-246,"width":228,"height":246,"color":"1","label":"Персонал"},
+		{"id":"dbc2ba2e4b9e7b20","type":"text","text":"Прикладные программы","x":-184,"y":-276,"width":164,"height":60,"color":"2"},
+		{"id":"407b5741259a7b27","type":"text","text":"СУБД","x":-160,"y":-140,"width":116,"height":50,"color":"2"},
+		{"id":"9f7ee9e8b5c2fa41","type":"text","text":"База данных","x":-184,"y":20,"width":164,"height":60,"color":"2"},
+		{"id":"fd1d84769d0a015c","type":"text","text":"Читатель\n\n(Просмотр и частичное изменение)","x":-505,"y":-306,"width":243,"height":121},
+		{"id":"1af6a9cde8d52e32","type":"text","text":"Библиотекари\n\n(Просмотр, добавление, исправление и удаление)","x":-505,"y":-159,"width":248,"height":139},
+		{"id":"4256079bb5cd241b","type":"text","text":"Админы БД","x":80,"y":-139,"width":188,"height":50},
+		{"id":"ab0c6db06e80c726","type":"text","text":"Администраторы системы","x":80,"y":-219,"width":188,"height":60},
+		{"id":"f7f23376787e74c6","type":"text","text":"Программисты","x":80,"y":-80,"width":188,"height":60}
+	],
+	"edges":[
+		{"id":"a70e5a586da78e8a","fromNode":"dbc2ba2e4b9e7b20","fromSide":"bottom","toNode":"407b5741259a7b27","toSide":"top","fromEnd":"arrow","color":"2"},
+		{"id":"d055528f62aeb285","fromNode":"407b5741259a7b27","fromSide":"bottom","toNode":"9f7ee9e8b5c2fa41","toSide":"top","fromEnd":"arrow","color":"2"},
+		{"id":"52fe3357e679fad9","fromNode":"1af6a9cde8d52e32","fromSide":"right","toNode":"dbc2ba2e4b9e7b20","toSide":"left"},
+		{"id":"e9a0c071b878f168","fromNode":"fd1d84769d0a015c","fromSide":"right","toNode":"dbc2ba2e4b9e7b20","toSide":"left"},
+		{"id":"6cea301280182807","fromNode":"ab0c6db06e80c726","fromSide":"left","toNode":"dbc2ba2e4b9e7b20","toSide":"right"},
+		{"id":"1058f9d6fe667721","fromNode":"4256079bb5cd241b","fromSide":"left","toNode":"407b5741259a7b27","toSide":"right"},
+		{"id":"70d28140ba1a3e69","fromNode":"f7f23376787e74c6","fromSide":"left","toNode":"dbc2ba2e4b9e7b20","toSide":"right"}
+	]
+}

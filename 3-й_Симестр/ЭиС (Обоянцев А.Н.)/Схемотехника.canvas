@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"54dbd0abf34e5d22","type":"group","x":-388,"y":-420,"width":417,"height":540,"color":"1","label":"Конъюнкция и Дизъюнкция"},
+		{"id":"5756a86a5dff3caa","type":"text","text":"X1|X2|F\n0  |0  |0","x":-346,"y":-260,"width":117,"height":360,"color":"2"},
+		{"id":"eb0276a908ef2fe9","type":"text","text":"Дизъюнкция\nили/or/v/+\n\n","x":-151,"y":-400,"width":160,"height":66,"color":"3"},
+		{"id":"854f6bc47be7c0dd","type":"text","text":"X1|X2|F\n0  |0  |0","x":-129,"y":-268,"width":117,"height":368,"color":"3"},
+		{"id":"b38f8208592015f0","type":"file","file":"3-й_Симестр/ЭиС (Обоянцев А.Н.)/ЭиС (Фото)/Конъюнкция и Дизъюнкция.jpg","x":160,"y":-420,"width":405,"height":540,"color":"1"},
+		{"id":"762381e2526a55ca","type":"text","text":"Конъюнкция\nи/and/^/*","x":-367,"y":-400,"width":160,"height":66,"color":"2"},
+		{"id":"d8a95184f480ecbb","type":"file","file":"3-й_Симестр/ЭиС (Обоянцев А.Н.)/ЭиС (Фото)/схемы_1.jpg","x":-388,"y":-1840,"width":953,"height":1271}
+	],
+	"edges":[
+		{"id":"15da5b845ebb7ee2","fromNode":"762381e2526a55ca","fromSide":"bottom","toNode":"5756a86a5dff3caa","toSide":"top","color":"2"},
+		{"id":"88a38e183e462f75","fromNode":"eb0276a908ef2fe9","fromSide":"bottom","toNode":"854f6bc47be7c0dd","toSide":"top","color":"3"},
+		{"id":"7223483f62514d6a","fromNode":"b38f8208592015f0","fromSide":"left","toNode":"54dbd0abf34e5d22","toSide":"right","fromEnd":"arrow","color":"1"}
+	]
+}

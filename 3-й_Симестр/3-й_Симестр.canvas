@@ -1,0 +1,24 @@
+{
+	"nodes":[
+		{"id":"ba715ae952c5cdf6","type":"group","x":-1000,"y":-400,"width":2220,"height":1320,"color":"5","label":"Расписание"},
+		{"id":"3d6e2b3bdce78738","type":"group","x":556,"y":-1120,"width":664,"height":720,"color":"#ffffff","label":"Предметы"},
+		{"id":"439f6ea1d1180c06","type":"text","text":"[[Документационное обеспечение управления]]","x":576,"y":-990,"width":624,"height":51,"color":"#d8e4bc"},
+		{"id":"dbc5acfb1cfcaaba","type":"text","text":"[[Электротехника и схемотехника]]","x":576,"y":-1080,"width":624,"height":60,"color":"#f79646"},
+		{"id":"1a554f4d5fb5e651","type":"file","file":"3-й_Симестр/Расписание/Звонки.png","x":-575,"y":280,"width":1120,"height":520},
+		{"id":"5aa41db35ca71e0a","type":"file","file":"3-й_Симестр/Расписание/Вторник.png","x":-575,"y":-220,"width":449,"height":400},
+		{"id":"6fb3d6709ac94f5f","type":"file","file":"3-й_Симестр/Расписание/Понедельник.png","x":-980,"y":-260,"width":405,"height":440},
+		{"id":"65be0f2be19e28a8","type":"file","file":"3-й_Симестр/Расписание/Среда.png","x":-126,"y":-260,"width":444,"height":440},
+		{"id":"7ce0ee268a2a0c6d","type":"file","file":"3-й_Симестр/Расписание/Четверг.png","x":318,"y":-220,"width":455,"height":400},
+		{"id":"3fcfabac488700c9","type":"text","text":"[[Организационно-правовое обеспечение информационной безопасности]]","x":576,"y":-910,"width":624,"height":59,"color":"#fcd5b4"},
+		{"id":"cd0c43d3b9eb1f12","type":"file","file":"3-й_Симестр/Расписание/Пятница.png","x":773,"y":-220,"width":425,"height":400},
+		{"id":"2198bd9f33b53968","type":"text","text":"[[Эксплуатация автоматизированных (информационных) систем в защищённом исполнении]]","x":576,"y":-750,"width":624,"height":73,"color":"#8db4e2"},
+		{"id":"e8c53b72a47b55f9","type":"text","text":"[[Программные и программно-аппаратные средства защиты информации]]","x":576,"y":-830,"width":624,"height":60,"color":"#b7dee8"},
+		{"id":"89d154adf8d9ce3b","type":"text","text":"[[Интернет технологии]]","x":576,"y":-480,"width":624,"height":50,"color":"#b8cce4"},
+		{"id":"3af7dc4d0d024e64","type":"text","text":"[[Безопасность Жизнедеятельности]]","x":576,"y":-560,"width":624,"height":50,"color":"#c4bd97"},
+		{"id":"b38c9499a36c7fd2","type":"text","text":"[[Английский язык]]","x":576,"y":-650,"width":624,"height":50,"color":"#e6b8b7"}
+	],
+	"edges":[
+		{"id":"8b8e7c14250ce722","fromNode":"3d6e2b3bdce78738","fromSide":"left","toNode":"ba715ae952c5cdf6","toSide":"top","color":"#ffffff"},
+		{"id":"e59aa5b25050ffc4","fromNode":"ba715ae952c5cdf6","fromSide":"right","toNode":"3d6e2b3bdce78738","toSide":"right","color":"5"}
+	]
+}
